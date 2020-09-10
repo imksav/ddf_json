@@ -1,5 +1,5 @@
 import 'package:ddf_json/pages/details.dart';
-import 'package:ddf_json/pages/note.dart';
+import 'package:ddf_json/constants/note.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:async';

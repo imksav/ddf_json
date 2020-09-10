@@ -1,4 +1,4 @@
-import 'package:ddf_json/pages/note.dart';
+import 'package:ddf_json/constants/note.dart';
 import 'package:flutter/material.dart';
 
 class DetailsPage extends StatelessWidget {
